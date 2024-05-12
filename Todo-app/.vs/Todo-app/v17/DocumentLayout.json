@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Todo-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|c:\\users\\hp\\source\\repos\\todo-app\\todo-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|solutionrelative:todo-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|c:\\users\\hp\\source\\repos\\todo-app\\todo-app\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|solutionrelative:todo-app\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|c:\\users\\hp\\source\\repos\\todo-app\\todo-app\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|solutionrelative:todo-app\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|c:\\users\\hp\\source\\repos\\todo-app\\todo-app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4258364-DA5F-4548-9E70-ADBBE8E0E53A}|Todo-app\\Todo-app.csproj|solutionrelative:todo-app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\TodoList.cs",
+              "RelativeDocumentMoniker": "Todo-app\\TodoList.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\TodoList.cs",
+              "RelativeToolTip": "Todo-app\\TodoList.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAGIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:01:14.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\Task.cs",
+              "RelativeDocumentMoniker": "Todo-app\\Task.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\Task.cs",
+              "RelativeToolTip": "Todo-app\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:30:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\User.cs",
+              "RelativeDocumentMoniker": "Todo-app\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\User.cs",
+              "RelativeToolTip": "Todo-app\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:49:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\Program.cs",
+              "RelativeDocumentMoniker": "Todo-app\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Todo-app\\Todo-app\\Program.cs",
+              "RelativeToolTip": "Todo-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:16:53.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.exe
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.deps.json
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.runtimeconfig.json
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.dll
+C:\Users\HP\source\repos\Todo-app\Todo-app\bin\Debug\net5.0\Todo-app.pdb
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.AssemblyInfo.cs
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.dll
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\refint\Todo-app.dll
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.pdb
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\Todo-app.genruntimeconfig.cache
+C:\Users\HP\source\repos\Todo-app\Todo-app\obj\Debug\net5.0\ref\Todo-app.dll
